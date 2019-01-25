@@ -15,7 +15,7 @@ function removeColor(el){
 }
 
 function showTrophy(el){
-	document.getElementById("opaque-rams").src = "images/lombardi_trophy.png";
-	document.getElementById("mid").src = "images/lombardi_trophy.png";
-	document.getElementById("opaque-pats").src = "images/lombardi_trophy.png";
+	document.getElementById("opaque-rams").src = "lombardi_trophy.png";
+	document.getElementById("mid").src = "lombardi_trophy.png";
+	document.getElementById("opaque-pats").src = "lombardi_trophy.png";
 }
